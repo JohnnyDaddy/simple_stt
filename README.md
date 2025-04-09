@@ -2,7 +2,9 @@ windows 환경에서 pip install pyaudio 실행 중 에러가 발생하여
 
 https://pypi.org/project/PyAudio/#files 에서 PyAudio-0.2.14-cp312-cp312-win_amd64.whl 파일을 다운로드 받아 가상환경 생성 후 설치함.
 
-#가상환경 생성
+
+# 가상환경 생성
+
 ```
 python -m venv myenv
 myenv\Scripts\activate
